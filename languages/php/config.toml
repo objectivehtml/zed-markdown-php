@@ -1,0 +1,3 @@
+name = "php"
+grammar = "php_only"
+path_suffixes = []
